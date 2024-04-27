@@ -1,2 +1,2 @@
 # Firstrep
-My first rep
+this is a c prog
